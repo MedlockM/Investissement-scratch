@@ -1,4 +1,4 @@
-# Investments scratch
+# Investissements scratch
 
 ## Installation
 
